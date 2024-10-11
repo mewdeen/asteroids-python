@@ -27,7 +27,6 @@ def main():
 
         pygame.display.flip()
 
-        time.tick(60)
 
         dt = time.tick(60) / 1000
 
